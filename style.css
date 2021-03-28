@@ -71,4 +71,26 @@ section{
 #latest-work-titel{
     text-align: center;
 }
+.footer-section{
+    height: 600px;
+    background-image:url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+#footer-card{
+    background-image: linear-gradient(45deg, #FF1C75,#fd79a8);
+    padding: 22px 140px;
+    display: inline-block;
+    color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    
+}
+#footer-para{
+    color: white;
+}
 
