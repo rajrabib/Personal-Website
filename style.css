@@ -50,3 +50,25 @@ section{
     font-weight: 700;
     color: white;
 }
+.latest-work-bg{
+    height: 650px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size: 100%;
+}
+.one-third-width{
+    width: 26%;
+    float: left;
+    margin-left: 5.75%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+
+}
+.one-third-width img{
+    width: 500px;
+}
+#latest-work-titel{
+    text-align: center;
+}
+
